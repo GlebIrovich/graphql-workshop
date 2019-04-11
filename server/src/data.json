@@ -1,0 +1,34 @@
+{
+    "articles": [
+      {
+        "id": 1,
+        "title": "Hello world",
+        "body": "The content of the article",
+        "userId": 1
+      },
+      {
+        "id": 2,
+        "title": "Hello there",
+        "body": "The content of the second article",
+        "userId": 1
+      },
+      {
+        "id": 3,
+        "title": "Howdy",
+        "body": "The content of the third article",
+        "userId": 2
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "name": "Kristijan",
+        "email": "becky@gmail.com"
+      },
+      {
+        "id": 2,
+        "name": "Becky",
+        "email": "becky@gmail.com"
+      }
+    ]
+}
